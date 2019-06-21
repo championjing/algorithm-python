@@ -21,6 +21,6 @@ def bubling(arr):
                                 arr[j+1] = temp
         return arr
 
-print test_list
-result = bubling(test_list)
-print result
+arr1 = [1,2]
+arr2 = [4,3]
+print ( str( arr1 + arr2 ))
